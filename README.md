@@ -4,13 +4,13 @@
 
 # 安装
 
-![1564651739786](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1564651739786.png)
+![1564651739786]()
 
 # 使用
 
 ### 当你使用burp抓包的时候，他会测试你访问过每个网页，同时，需要控制发包的频率避免被墙
 
-
+![1564651739786](F:\迅雷下载\tp_check\img\tp_scan.png)
 
 # BUG
 ### 延时注入有可能是误报，请注意
